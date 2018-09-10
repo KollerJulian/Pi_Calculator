@@ -7,7 +7,7 @@ Program will be interrupted if the Py_Calculator.py file is stored in an write p
 
 ## v1.03 (10.08.2018)
     - Removed unnecessary exception while writing to external file
-    - removed blank exception, only catching PermissionError while trying to open file if occurs
+    - removed blank exception, only catching PermissionError if occurs when trying to open external file 
 
 ## v1.02 (17.04.2018)
 	- Fixed measurement of time being unnecessarily accurate (17 decimal places)
