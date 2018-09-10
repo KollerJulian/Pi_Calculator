@@ -10,7 +10,7 @@ Program will be interrupted if the Py_Calculator.py file is stored in an write p
     - removed blank exception, only catching PermissionError while trying to open file
 
 ## v1.02 (17.04.2018)
-	- Measurement of time now more accurate
+	- Fixed measurement of time being unnecessarily accurate (17 decimal places)
 	- Added more comments to the code
 
 ## v1.01 (20.03.2018)
