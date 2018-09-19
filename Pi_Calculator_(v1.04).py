@@ -4,7 +4,7 @@ import time
 print("""
 =============================================================================
 | 888888b.  YP                                                              |
-| 88   Y8b          Pi_Calculator by Julian Koller                          |
+| 88   Y8b          Pi_Calculator by julien_Blue                            |
 | 88   d8P  88      v1.04   <2018>                                          |
 | 888888P'  88      Simple Pi Calculator using the Chudnovsky Algorithm     |
 | 88        88      See changelog.txt for further information               |
