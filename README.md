@@ -6,7 +6,7 @@ pi.txt will be overwritten if it already exists.
 Program will be interrupted if the Py_Calculator.py file is stored in an write protected folder.
 
 ## v1.04 (19.09.2018)
-	- output file will be called after the precision of pi
+	- output file will get it's name by the precision of pi
 	- plus() returns the 's' variable to ensure proper context precision and roundings
 	- sys module will only be imported to exit the program if an PermissionError occurs 
 
