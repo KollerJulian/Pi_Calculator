@@ -1,7 +1,7 @@
 # Py_Calculator by julien_Blue
 This program calculates the value of Pi using the Chudnovsky Algorithm.
 Calculated value of Pi will be written to an automatically generated
-external file (pi.txt) in the folder where the Py_Calculator_(v.X.XX).py file is located.
+external file (pi.txt) in the folder where the Py_Calculator_(v.*.**).py file is located.
 pi.txt will be overwritten if it already exists.
 Program will be interrupted if the Py_Calculator.py file is stored in an write protected folder.
 
