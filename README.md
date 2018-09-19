@@ -20,5 +20,5 @@ Program will be interrupted if the Py_Calculator.py file is stored in an write p
 ## v1.00 (**.02.2018)
 	- Initial release
 
-This changelog is inspired by the Py_calculator.py file.
+This changelog is inspired by the Py_calculator(vX.XX).py file.
 Hopefully this will help keep the releases tidy and understandable.
