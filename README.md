@@ -1,9 +1,9 @@
-# Py_Calculator by julien_Blue
+# Pi_Calculator by julien_Blue
 This program calculates the value of Pi using the Chudnovsky Algorithm in an successive approximation.\n
 Calculated value of Pi will be written to an automatically generated
-external file (pi.txt) in the folder where the Py_Calculator_(v.X.XX).py file is located.
+external file (pi.txt) in the folder where the Pi_Calculator_(v.X.XX).py file is located.
 pi.txt will be overwritten if it already exists.
-Program will be interrupted if the Py_Calculator.py file is stored in an write protected folder.
+Program will be interrupted if the Pi_Calculator.py file is stored in an write protected folder.
 
 ## v1.04 (19.09.2018)
 	- output file will get it's name by the precision of pi
@@ -19,11 +19,11 @@ Program will be interrupted if the Py_Calculator.py file is stored in an write p
 	- Added more comments to the code
 
 ## v1.01 (20.03.2018)
-	- Fixed program crash when Py_Calculator.py file is executed in an write protected folder
+	- Fixed program crash when Pi_Calculator.py file is executed in an write protected folder
 	- Value of decimal digits can be set in console manually at program start
 
 ## v1.00 (**.02.2018)
 	- Initial release
 
-This changelog is inspired by the Py_calculator(vX.XX).py file.
+This changelog is inspired by the Pi_calculator(vX.XX).py file.
 Hopefully this will help keep the releases tidy and understandable.
