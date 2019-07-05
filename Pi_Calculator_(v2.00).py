@@ -5,7 +5,7 @@ print("""
 =========================================================================================
 | 888888b.  YP                                                                          |
 | 88   Y8b          Pi_Calculator by julien_Blue | inspired by DorFuchs                 |
-| 88   d8P  88      v1.10    <2019>                                                     |
+| 88   d8P  88      v2.00    <2019>                                                     |
 | 888888P'  88      Simple Pi Calculator using the Brent & Salamin algorithm for Pi     |
 | 88        88      See changelog.txt for further information                           |
 | 88        88                                                                          |
