@@ -5,6 +5,9 @@ external file (pi.txt) in the folder where the Pi_Calculator_(v.X.XX).py file is
 pi.txt will be overwritten if it already exists.
 Program will be interrupted if the Pi_Calculator.py file is stored in an write protected folder.
 
+## v1.10 (26.03.2019)
+	- implemented the Brent & Salamin algorithm due to more efficiency
+	- inspired by DorFuchs
 ## v1.04 (19.09.2018)
 	- output file will get it's name by the precision of pi
 	- plus() returns the 's' variable to ensure proper context precision and roundings
